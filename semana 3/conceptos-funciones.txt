@@ -1,47 +1,50 @@
 Conceptos básicos de funciones – Semana 3 Día 2
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante:natali villalba garizabalo
+Fecha: 30 de abril 2026
+Nombre de la rama:natali_villalba
 
 Responde con tus propias palabras.
 
 1. ¿Qué es una función en JavaScript?
 
-Respuesta:
+Respuesta: bloque de código reutilizable para realizar una tarea especifica
 
 2. ¿Para qué sirve organizar instrucciones dentro de una función?
 
-Respuesta:
+Respuesta: sirve para tener el código más ordenado, 
+fácil de entender y evitar escribir lo mismo muchas veces.
 
 3. ¿Qué significa entrada en una función?
 
-Respuesta:
+Respuesta: :son los datos o valores que se le envían a la función
+ para que pueda trabajar con ellos.
 
 4. ¿Qué significa proceso en una función?
 
-Respuesta:
+Respuesta: es la acción o las operaciones que la función
+ realiza con los datos que recibe.
 
 5. ¿Qué significa salida en una función?
 
-Respuesta:
+Respuesta: es el resultado final despues del proceso 
 
 6. ¿Qué hace return en una función?
 
-Respuesta:
+Respuesta: devolver un resultado o valor desde la función.
 
 7. ¿Qué hace el comando npm init -y?
 
-Respuesta:
+Respuesta: se utiliza para inicar un nuevo proyecto de node.js 
 
 8. ¿Qué archivo se crea al ejecutar npm init -y?
 
-Respuesta:
+Respuesta: se crea automáticamente un archivo llamado package.json
 
 9. ¿Por qué una función puede ayudar a repetir una decisión sin escribir todo de nuevo?
 
-Respuesta:
+Respuesta: porque permite guardar las instrucciones y permite utilizarla despues mencionando el nombre 
 
 10. ¿Cómo se relaciona una función con un proceso comunitario claro?
 
-Respuesta:
+Respuesta: Una función se relaciona con un proceso comunitario claro porque ambos transforman entradas definidas en resultados concretos mediante pasos organizados y verificables.
